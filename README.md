@@ -1,12 +1,11 @@
 # ProffieFork
 Hardware fork for Proffieboard V2.2 
-Original:
 
 https://fredrik.hubbe.net/lightsaber/v5/board22.html
 
 https://github.com/profezzorn/ProffieOS
 
-Purpose:
+Project purpose:
 - larger components, optimised for hand soldering
 - larger board size 
 - on-board connectors
